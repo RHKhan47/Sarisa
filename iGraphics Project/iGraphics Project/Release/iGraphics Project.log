@@ -1,0 +1,11 @@
+﻿Build started 2022-08-06 01:30:23.
+     1>Project "G:\GAME PROJECT (SaRiSa)\iGraphicsUltimate\iGraphics Project\iGraphics Project\iGraphics Project.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt iMain.cpp
+         iMain.cpp
+     1>iMain.cpp(25): error C2660: 'iShowBMP2' : function does not take 3 arguments
+     1>Done Building Project "G:\GAME PROJECT (SaRiSa)\iGraphicsUltimate\iGraphics Project\iGraphics Project\iGraphics Project.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.32
